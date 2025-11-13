@@ -40,9 +40,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
 
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyad-abdelreheem&show_icons=true&locale=en&layout=compact" alt="zeyad-abdelreheem" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyad-abdelreheem&show_icons=true&locale=en" alt="zeyad-abdelreheem" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-abdelreheem&" alt="zeyad-abdelreheem" /></p> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafabahaa25&show_icons=true&locale=en" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafabahaa25" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafabahaa25&show_icons=true&locale=en&layout=compact" alt="langs" />
+</div>
