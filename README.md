@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Bahaa</h1>
 <h3 align="center">A ML/DL engineer who is addicted to learning</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyad-abdelreheem&label=Profile%20views&color=0e75b6&style=flat" alt="zeyad-abdelreheem" /> </p> -->
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafabahaa25&label=Profile%20views&color=0e75b6&style=flat" alt="mostafabahaa25" /> </p> --->
 
 - 🔭 I’m currently studying computer engineering.
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mostafa-bahaa-32765a221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mostafa Bahaa" height="30" width="40" /></a>
-<!-- <a href="https://kaggle.com/zeyad abdelreheem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeyad abdelreheem" height="30" width="40" /></a> -->
+<a href="https://www.kaggle.com/mostafabahaa25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mostafabahaa25" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
